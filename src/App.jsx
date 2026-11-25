@@ -1,9 +1,9 @@
 import React from "react";
-import " ./App.css";
+import "./App.css";
 
 function App() {
   return (
-    <div className="app">
+    <div className="App">
       <header>
         <h1>Residencial Los Robles</h1>
         <p>Portal de residentes</p>
